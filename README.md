@@ -1,4 +1,4 @@
-#🎲 Guess the Number – Python Game
+🎲 Guess the Number – Python Game
 
 Created by JP
 
