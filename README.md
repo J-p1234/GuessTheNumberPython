@@ -88,3 +88,5 @@ Random module
 
 JP
 Project created as a Python GUI game to practice logic, UI design, and event handling.
+
+<img width="418" height="405" alt="GuessTheNumber" src="https://github.com/user-attachments/assets/e5258490-0804-4549-8bbb-809bb734bd67" />
